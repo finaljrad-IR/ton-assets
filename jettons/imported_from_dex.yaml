@@ -1,3 +1,6 @@
+- address: 0:049a69023f5b6e1ef0acb8d671b8a7bdde3e032d7bcf8c3041318116693c352b
+  name: BabyUtya
+  symbol: $BUTYA
 - address: 0:9b48bb73351f4b1e294510273439c641cf76a9e3363353a811e040ba119a08cc
   name: 'Russian Blue '
   symbol: $Blu
@@ -271,6 +274,9 @@
 - address: 0:7e8b592a3f3fcc8ad91108ecf38037f4fdda316a19356d43d50068e6e3dccca3
   name: Ton Croco
   symbol: CROCO
+- address: 0:ab2090a88509ac32a7272bd81589bcea8afe7ecd18fd2977f85fc8490db44cef
+  name: Crow
+  symbol: CROW
 - address: 0:3eacf4800885bc8492f5217698019510bdafc56f88bcd691755365f06dbc934e
   name: CTIDAO
   symbol: CTIDAO
@@ -310,6 +316,9 @@
 - address: 0:0e2ce27d8e14b5466cc44306b209c0fff20959848de6ee534e7e83535213f84d
   name: adDICKted
   symbol: DICK
+- address: 0:91522b63ede858bd2cd9293ca1ab4dbe1e96e12cd800be7305e48ec3c77d50c4
+  name: Owled Didi
+  symbol: DIDI
 - address: 0:722d939a05ba6bf44c0da275ca11f92464bd6f88db181decf1c390952b8061d3
   name: DINJA
   symbol: DINJA
@@ -1105,6 +1114,9 @@
 - address: 0:b6e336e6c8e34cfa6dc37820984290d18a29c68cebb67021debf0505196bdda2
   name: Spotty
   symbol: Spotty
+- address: 0:d193779f496d2ec2150f74dda17ee42aa0386f9b3c9e4c08893af8d1a067bf7b
+  name: Stuped Coyn
+  symbol: Stuped
 - address: 0:18e4a73b49f9df89392c580c8e4c9ec4bb9a072b0a991ddb731dabca2651f7c2
   name: TAGO WOLF
   symbol: TAGO
@@ -1208,6 +1220,9 @@
 - address: 0:a17df6f8de40d97f952c517b3a406644b2f0c492833508455a6dffa88a1a14e1
   name: Ton Milk
   symbol: TMILK
+- address: 0:cb4d1f8d04c6331c05371a8a57d1b17901f59a2fbb8c8e5e8c9d71d3542ed956
+  name: TON FORD
+  symbol: TNFRD
 - address: 0:1a1a5c42df56254b1ccaffd846de46ba50dd46f616e15c9237493b5f5111e122
   name: TONY
   symbol: TNY
@@ -1404,7 +1419,7 @@
   name: X Empire
   symbol: X
 - address: 0:3547f2ee4022c794c80ea354b81bb63b5b571dd05ac091b035d19abbadd74ac6
-  name: XAUt0
+  name: Tether Gold
   symbol: XAUt0
 - address: 0:fb4c7830f4667bb9d6738f3c2205730710a4821e21252841e39fffa5717a0602
   name: xCryproMarket
@@ -1475,6 +1490,9 @@
 - address: 0:82bbf5d4cc80ff9ad53ecf6eb6249c2fbaba8f8a252cbab2ecb75b9ce6697035
   name: no cat
   symbol: nyetcat
+- address: 0:3ab9c8b785a60dcfde95eac6467d067c887fe2287420a388a291f8a6a92dddaf
+  name: PlushPepe
+  symbol: plsh
 - address: 0:6783f531f032ca79a2d9e2437879e73e53e489d5f32d62fa9000db4bd28c4a45
   name: sTONks
   symbol: sTONks
